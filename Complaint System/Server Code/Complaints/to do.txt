@@ -1,0 +1,17 @@
+Landscape problem
+
+once a complaint is resolved disable upvote and downvote
+
+Add User Window
+
+==================================================================
+
+upon login check who has logged in
+
+bookmarking
+
+Comments in complaints
+
+my commits
+
+Resolved and Unresolved

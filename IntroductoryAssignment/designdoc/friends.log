@@ -1,0 +1,176 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.23)  15 FEB 2016 11:37
+entering extended mode
+**./friends.tex
+(friends.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(friends.aux)
+\openout1 = `friends.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+ <0.png, id=1, 361.35pt x 642.4pt>
+File: 0.png Graphic file (type png)
+ <use 0.png>
+Package pdftex.def Info: 0.png used on input line 22.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<1.png, id=3, 722.7pt x 1284.8pt>
+File: 1.png Graphic file (type png)
+ <use 1.png>
+Package pdftex.def Info: 1.png used on input line 28.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<2.png, id=4, 361.35pt x 642.4pt>
+File: 2.png Graphic file (type png)
+ <use 2.png>
+Package pdftex.def Info: 2.png used on input line 34.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<3.png, id=5, 361.35pt x 642.4pt>
+File: 3.png Graphic file (type png)
+ <use 3.png>
+Package pdftex.def Info: 3.png used on input line 40.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<4.png, id=6, 361.35pt x 642.4pt>
+File: 4.png Graphic file (type png)
+ <use 4.png>
+Package pdftex.def Info: 4.png used on input line 46.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<5.png, id=7, 722.7pt x 1284.8pt>
+File: 5.png Graphic file (type png)
+ <use 5.png>
+Package pdftex.def Info: 5.png used on input line 52.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<6.png, id=8, 722.7pt x 1284.8pt>
+File: 6.png Graphic file (type png)
+ <use 6.png>
+Package pdftex.def Info: 6.png used on input line 58.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+
+<7.png, id=9, 722.7pt x 1284.8pt>
+File: 7.png Graphic file (type png)
+ <use 7.png>
+Package pdftex.def Info: 7.png used on input line 64.
+(pdftex.def)             Requested size: 195.0pt x 346.66539pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 72.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+
+Overfull \hbox (5.18752pt too wide) in paragraph at lines 81--82
+[]\OT1/cmr/m/n/12 Clicking add but-ton adds the fields for third mem-ber regist
+ration.[[]] 
+ []
+
+[1
+
+{C:/Users/shivank/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2 <./0.png>] (friends.bbl
+Overfull \hbox (253.95908pt too wide) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 Android de-vel-op-ers.  http://developer.android.com/referenc
+e/android/support/design/widget/FloatingActionButton.html. 
+ []
+
+[3 <./1.png>]
+Overfull \hbox (96.64958pt too wide) in paragraph at lines 9--11
+[]\OT1/cmr/m/n/12 Android de-vel-op-ers di-alogfrag-ment.  http://developer.and
+roid.com/training/basics/network-
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 18--21
+[]\OT1/cmr/m/n/12 Simplified cod-ing.  https://www.simplifiedcoding.net/android
+-studio-
+ []
+
+) [4 <./2.png>] [5 <./3.png>] [6 <./4.png>] [7 <./5.png>] [8 <./6.png>]
+[9 <./7.png>] (friends.aux) ) 
+Here is how much of TeX's memory you used:
+ 884 strings out of 493634
+ 11418 string characters out of 3141308
+ 68824 words of memory out of 3000000
+ 4307 multiletter control sequences out of 15000+200000
+ 6320 words of font info for 23 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,19p,221b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb>
+Output written on friends.pdf (9 pages, 745941 bytes).
+PDF statistics:
+ 61 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
